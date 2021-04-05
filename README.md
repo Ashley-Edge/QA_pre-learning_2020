@@ -3,4 +3,4 @@ A few tasks from my pre-learning I needed to complete in preparation for my QA D
 
 Here is my certificate of completion :smile:
 
-![Certificate](/documentation/pre-learning-2020 certificate.png)
+![Certificate](documentation/pre-learning-2020_certificate.png
